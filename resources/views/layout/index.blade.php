@@ -50,7 +50,7 @@
           <li><a href="#pricing">Pricing</a></li>
           <li><a href="#team">Team</a></li>
           <li><a href="#gallery">Gallery</a></li>
-          <li class="menu-has-children"><a href="">Drop Down</a>
+         {{--  <li class="menu-has-children"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
               <li class="menu-has-children"><a href="#">Drop Down 2</a>
@@ -66,16 +66,13 @@
               <li><a href="#">Drop Down 4</a></li>
               <li><a href="#">Drop Down 5</a></li>
             </ul>
-          </li>
+          </li> --}}
           <li><a href="#contact">Contact Us</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
   </header><!-- #header -->
-
-  <!--==========================
-    Intro Section
-  ============================-->
+  <!--==========================Intro Section ============================-->
   <section id="intro">
 
     <div class="intro-text">
@@ -738,10 +735,7 @@
     </section><!-- #contact -->
 
   </main>
-
-  <!--==========================
-    Footer
-  ============================-->
+  <!--==========================Footer============================-->
   <footer id="footer">
     <div class="container">
       <div class="row">
