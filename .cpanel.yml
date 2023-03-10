@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/sapq6952/public_html/
+    - /bin/cp -R * $DEPLOYPATH
